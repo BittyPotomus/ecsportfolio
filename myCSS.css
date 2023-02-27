@@ -41,7 +41,8 @@ a:hover, a:active, a:focus {
 }
 .content {
 	background: #CFF1FF;
-	margin: 5px;
+	margin: 0px;
+	padding: 10px;
 	float: left;
 	width: 100%;
 	text-align: left;
